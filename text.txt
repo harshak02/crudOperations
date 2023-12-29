@@ -1,0 +1,1 @@
+for reloading the page use window.location.reload() inside the then (promise) of axios  if needed
